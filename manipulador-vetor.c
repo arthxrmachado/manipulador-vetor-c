@@ -1,10 +1,4 @@
-/*
-	Arthur Lourenço Machado 			1920478300009		Turma B
-	João Vitor de Freitas de Castro		1920478300027		Turma B
-*/
-
 #include <stdio.h>
-
 #define CAP tamanho
 
 //buscar itens na lista
@@ -74,7 +68,7 @@ void exibirPares(int a[], int c) {
     }
 }
 
-//exibir os itens ímpares
+//exibir os itens Ã­mpares
 void exibirImpares(int a[], int c) {
 
     int i;
