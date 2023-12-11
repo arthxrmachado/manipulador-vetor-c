@@ -1,8 +1,8 @@
 # manipulador_vetor
 
-Esse é um dos meus primeiros grandes projetos utilizando esta linguagem. O programa a seguir é um manipulador de um vetor de inteiros positivos, de forma com que os números pares fiquem no início da estrutura e os ímpares ao seu final.
+Esse é um dos meus primeiros grandes projetos utilizando a linguagem C. O programa a seguir é um manipulador de um vetor de inteiros positivos, de forma com que os números pares fiquem no início da estrutura e os ímpares ao seu final.
 
-A programa disponibiliza continuamente ao usuário um menu com possíveis operações, de forma que a execução só terminará quando for selecionada a opção de saída.
+O programa disponibiliza continuamente ao usuário um menu com possíveis operações, de forma que a execução só terminará quando for selecionada a opção de saída.
 
 Operações disponíveis:
 
